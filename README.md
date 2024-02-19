@@ -1,7 +1,5 @@
 # Country Categorisation Project (k-means clustering)
 
-**Project Title:** Country Categorization using Socioeconomic and Health Factors
-
 **Objective:**
 
 Use machine learning to group countries based on their development status, using factors such as child mortality, economic indicators, and health statistics.
