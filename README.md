@@ -1,4 +1,4 @@
-# Country Categorisation Project (k-means clustering)
+# Country Categorisation (k-means clustering)
 
 **Objective:**
 
