@@ -1,4 +1,4 @@
-# Unsupervised learning - K-means Clustering
+# Unsupervised learning - K-means clustering
 
 **Overview** 
 
