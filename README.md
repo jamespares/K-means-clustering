@@ -20,7 +20,8 @@ inflation: Annual growth rate of total GDP
 life_expec: Average life expectancy at birth
 total_fer: Total fertility rate (children per woman)
 gdpp: GDP per capita
-Methodology:
+
+**Methodology:**
 
 **Data Exploration and Preprocessing:**
 
