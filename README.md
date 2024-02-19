@@ -1,4 +1,4 @@
-# Unsupervised learning - K-means clustering
+# Country Categorisation Project (k-means clustering)
 
 **Project Title:** Country Categorization using Socioeconomic and Health Factors
 
